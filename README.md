@@ -26,4 +26,4 @@ supprimer.php : supprimer un étudiant
 
 ## Auteur
 
-Projet réalisé par : (écris ton nom ici)
+Projet réalisé par : (BAHATI Eugene)
